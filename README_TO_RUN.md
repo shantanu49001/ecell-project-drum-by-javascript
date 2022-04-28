@@ -5,3 +5,7 @@
 
 
 by-shantanu
+
+
+WORKING-
+1.BASIC JAVASCRIPT FUNCTIONS CONTROLLING button OnClick events.
